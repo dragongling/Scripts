@@ -1,0 +1,6 @@
+# Intellij projects metadata
+*/.idea/
+
+# Visual Studio projects metadata
+*.pyproj
+python/MiscScripts/.idea/
